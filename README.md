@@ -22,7 +22,8 @@ Through analysis on Olympics from 1896 - 2008
 6. **Plot the total number of medals awarded at each of the Olympic games throughout history.**
    <br><br>
    ![image](https://github.com/JestinGigi/Data_Analysis/assets/75965382/7a6d0504-f09c-47af-bb77-d84542145f94)
-> Do checkout my code to find all the questions asked and their answers
+
+## Do checkout my code to find all the questions asked and their answers
 
 
 
